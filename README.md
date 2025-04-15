@@ -10,22 +10,23 @@ Mebane, NC
 ### Terminix-Triad
 #### Mobile/.NET Developer
 _Feb 2025 - present_
-- Assisted in completion of iOS workflow for proposing, selling, and capturing signatures for commercial sales.
-- Transitioned into mobile development focusing on improving web services used by iOS devices, app state management, and user interfaces.
+- Implemented iOS workflow for proposing, selling, and capturing signatures for commercial sales.
+- Refactored internal REST APIs for iOS devices by separating core logic and creating a service layer.
 - Created an open-source Swift library for parsing addresses into address components using complex regular expressions for identifying common address patterns.
+- Developed REST API for common document services including creating contract proposals and flattening completed contracts using cross-platform PDF libraries.
 
 #### .NET Developer
 _April 2023 - Jan 2025_  
 - Designed and implemented several projects including REST APIs and a full-stack CRM web application.
-- Improved payment processing times using parallel programming, new REST APIs, and SQL Stored Procedures.
-- Managed customer web portals and internal applications, including DevOps pipeline builds and releases.
-- Converted Domain NuGet library from .NET Framework to .NET Core, ensuring efficient data models and utilities.
+- Improved payment processing times using asynchronous and parallel programming, and SQL stored procedures.
+- Managed customer web portals and internal applications, including design, development, maintenance, and dev ops using Azure for CI/CD.
+- Converted the domain NuGet library from .NET Framework to .NET Core, ensuring efficient data models, utilities, and consistent data access patterns.
 
 ### Hillsborough Bake Shop  
 #### Front-of-House Manager
 _March 2021 - April 2023_  
-- Managed the website using Wix and social media, and handled the point-of-sales system.
-- Trained over 5 new employees on products, services, and customer experience best practices.
+- Maintained Wix website, social media, and managed the point-of-sales system.
+- Trained 6 new employees on products, services, and customer experience best practices.
 - Enhanced physical marketing efforts to boost customer engagement and sales.
 
 ### Firsthand Foods
